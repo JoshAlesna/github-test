@@ -10,4 +10,5 @@ body {
 h1 {
     font-size: 15rem;
     font-family: monospace;
+    text-decoration: overline underline;
 }
